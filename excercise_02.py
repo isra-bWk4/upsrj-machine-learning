@@ -198,7 +198,7 @@ X_test = X_test.to_numpy().reshape(-1, 1)
 model.fit(X=X_train, y=Y_train)
 
 logging.info("El modelo linear fue alimentado con 'X_train'.")
-
+#jaja
 # ------------------------------------------------------------
 # STEP 6: Analyze the simple linear regression model
 # ------------------------------------------------------------
